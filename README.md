@@ -1,5 +1,9 @@
 Zerodha Clone – React.js Web Application
 
+## 🌐 Live Project
+Experience the app live here: **[Zerodha Clone - Live](https://zerodha-clone-c3zl.vercel.app/support)**
+
+
 This is a fully responsive and interactive Zerodha Clone web application built using React.js, designed to replicate the clean, minimal, and user-friendly interface of the popular Indian stock brokerage platform, Zerodha. The project aims to simulate the look and feel of Zerodha’s official website, focusing on delivering a visually appealing and smooth user experience while practicing modern front-end development techniques.
 
 The clone includes well-structured components, modular code, and reusable UI elements that make the project both developer-friendly and scalable. The design has been crafted with attention to detail, keeping typography, layout, and spacing consistent to match the professional tone of a finance-related platform. While this project is purely for educational and practice purposes and does not provide any real-time trading or financial services, it demonstrates the core concepts of React development and responsive web design.
